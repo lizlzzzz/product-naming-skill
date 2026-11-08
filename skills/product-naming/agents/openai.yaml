@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品命名"
+  short_description: "为互联网产品、App、SaaS 与 AI 工具生成并评估中文、英文及双语名称"
+  default_prompt: "使用 $product-naming，根据产品定位提供命名方向、候选名和首选理由。"

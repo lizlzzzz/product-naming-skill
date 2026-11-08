@@ -1,0 +1,39 @@
+name,company,product_type,market,brand_level,mechanism,formation,function_signal,perception,analysis,source_url
+TikTok,ByteDance,short video,International,main,coined,sound-like pair,low,rhythmic,Repeated consonant pattern makes the name easy to echo,https://www.bytedance.com/products-services
+CapCut,ByteDance,video editor,International,main,functional,compound,medium,direct,Cut gives a strong editing cue without a generic full descriptor,https://www.bytedance.com/products-services
+Dreamina,ByteDance,AI creative,International,main,coined,recognizable stem,low,imaginative,Dream anchors a coined form in creative imagery,https://www.bytedance.com/products-services
+Dola,ByteDance,AI assistant,International,main,coined,short brand word,low,approachable,Two short syllables give it a conversational shape,https://www.bytedance.com/products-services
+Lark,ByteDance,collaboration,International,main,everyday,dictionary word,low,light,A compact word with bird and playful associations,https://www.bytedance.com/products-services
+BytePlus,ByteDance,enterprise platform,International,main,family,shared root plus modifier,medium,technical,Byte signals technology while Plus gives scope to grow,https://www.bytedance.com/products-services
+Lemon8,ByteDance,lifestyle community,International,main,everyday,word plus digit,low,playful,Familiar fruit imagery contrasts with a numeral,https://www.bytedance.com/products-services
+Fizzo,ByteDance,reading app,International,main,coined,sound-led form,low,playful,A repeated consonant creates a distinct written shape,https://www.bytedance.com/products-services
+Gauth,ByteDance,education app,International,main,coined,short brand word,low,technical,Compact spelling creates recognition with possible reading ambiguity,https://www.bytedance.com/products-services
+TikTok Shop,ByteDance,marketplace,International,subbrand,family,root plus category,high,direct,The parent brand and commerce cue are both explicit,https://www.bytedance.com/products-services
+WeChat,Tencent,messaging,International,main,functional,compound,high,social,We adds social framing to the clear verb Chat,https://www.tencent.com/products/weixin-wechat/
+ChatGPT,OpenAI,AI assistant,English-facing,main,functional,word plus initialism,high,technical,Chat defines the interaction and GPT adds a technical identifier,https://openai.com/chatgpt/overview/
+Claude,Anthropic,AI assistant,English-facing,main,persona,given name,low,personal,A familiar naming format gives the assistant a role in conversation,https://www.anthropic.com/claude
+Gemini,Google,AI assistant,English-facing,main,aspirational,cultural reference,low,exploratory,The twins association provides imagery with wide scope,https://gemini.google.com/
+Microsoft Copilot,Microsoft,AI assistant,English-facing,subbrand,metaphor,parent plus role,medium,supportive,A familiar support role calibrates how assistance feels,https://copilot.microsoft.com/
+GitHub Copilot,GitHub,developer tool,English-facing,subbrand,family,root plus role,medium,supportive,The GitHub root sets context for the shared role term,https://github.com/features/copilot
+Cursor,Anysphere,developer tool,English-facing,main,metaphor,interface term,medium,precise,An editing affordance stands in for a larger workflow,https://cursor.com/
+Perplexity,Perplexity,AI search,English-facing,main,technical,abstract noun,low,curious,An abstract noun evokes inquiry but has a spelling cost,https://www.perplexity.ai/
+Midjourney,Midjourney,AI creative,English-facing,main,aspirational,compound,low,imaginative,A journey suggests an open-ended creative process,https://www.midjourney.com/
+Runway,Runway,AI creative,English-facing,main,metaphor,place noun,low,energetic,A place used for departure suggests getting an idea off the ground,https://runwayml.com/
+Figma,Figma,design tool,English-facing,main,coined,short brand word,low,modern,Two compact syllables separate the name from design descriptors,https://www.figma.com/
+Notion,Notion,productivity,English-facing,main,technical,abstract noun,low,thoughtful,A common concept leaves room for several workflows,https://www.notion.com/
+Linear,Linear,issue tracking,English-facing,main,technical,abstract adjective,low,ordered,A mathematical association suggests structure and flow,https://linear.app/
+Slack,Slack,collaboration,English-facing,main,metaphor,dictionary word,low,casual,An existing word creates a contrast with workplace software,https://slack.com/
+Discord,Discord,community,English-facing,main,metaphor,dictionary word,low,irreverent,An unexpected social association is distinctive and has a negative literal reading,https://discord.com/
+Spotify,Spotify,music streaming,English-facing,main,coined,brand word,low,playful,The spelling has a clear ending and a distinctive rhythmic pattern,https://www.spotify.com/
+Canva,Canva,design tool,English-facing,main,coined,brand word with lexical echo,medium,approachable,The spelling can evoke canvas and gives a short spoken name,https://www.canva.com/
+Chrome,Google,browser,English-facing,main,technical,material noun,low,minimal,A material word suggests a clean technical surface,https://www.google.com/chrome/
+Safari,Apple,browser,English-facing,main,metaphor,activity noun,low,exploratory,A familiar activity maps browsing to exploration,https://www.apple.com/safari/
+AirDrop,Apple,file transfer,English-facing,feature,family,root plus action,medium,light,A shared root and an action suggest wireless transfer,https://support.apple.com/en-us/119857
+GarageBand,Apple,music creation,English-facing,main,metaphor,compound,medium,creative,A familiar amateur recording scene gives the tool personality,https://www.apple.com/mac/garageband/
+Alexa,Amazon,voice assistant,English-facing,main,persona,given name,low,personal,The name works as a direct spoken address,https://developer.amazon.com/en-US/alexa
+Photoshop,Adobe,image editor,English-facing,main,functional,compound,high,practical,Photo sets the medium and shop evokes working on it,https://www.adobe.com/products/photoshop.html
+Firefly,Adobe,AI creative,English-facing,main,everyday,dictionary word,low,imaginative,A familiar insect gives the abstract tool a visual anchor,https://www.adobe.com/products/firefly.html
+NotebookLM,Google,AI research,English-facing,main,functional,word plus initialism,medium,practical,Notebook frames the workflow while LM adds a technical cue,https://notebooklm.google/
+Dropbox,Dropbox,file storage,English-facing,main,metaphor,compound,medium,practical,A familiar container makes file transfer easier to imagine,https://www.dropbox.com/
+Obsidian,Obsidian,note taking,English-facing,main,metaphor,material noun,low,distinctive,A material association provides texture and visual identity,https://obsidian.md/
+Miro,Miro,visual collaboration,English-facing,main,coined,short brand word,low,approachable,A short open-syllable shape is easy to say,https://miro.com/
